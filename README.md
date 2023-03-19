@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Hello, welcome! my name is Márcio Freitas and I am a Master Course Student at Santa Catarina Federal University. I am building my career as a systems analyst and developer for embedded systems and Data Science. ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, welcome! my name is Márcio Freitas and I am a Master Course Student at Santa Catarina Federal University. I am building my career as a system analyst and developer for embedded systems and Data Science. ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --->
